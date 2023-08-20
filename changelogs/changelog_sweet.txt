@@ -1,31 +1,20 @@
 ===============
-08-07-2023
+20-08-2023
 ===============
 Source Changelog:
-• Added option for users to separate ring & notification sound streams
-• Enabled and tuned split notification shade
-• Enabled few feature flags
-• Fixed an issue where few system icons failed to refresh on theme change
-• Fixed some NPE
-• Introduced smart 5G service
-• Introduced statusbar NFC icon
-• Moved Vo5G toggle right below VoLTE
-• Un-spoofed GMS while adding Google account
+• Bring back features that were missed in new security and privacy UI
+• Fixed an issue where Bluetooth icon didn't hide when disabled from tuner
+• Fixed an issue where LS shortcut was force closing while accessing from lock screen settings
+• Fixed app lock allow biometric toggle being ignored
+• Fixed back gesture haptic toggle was not working
 
 Device Changelog:
-June and July security patches
-Updated kernel to 4.14.320
-Merge latest caf tag LA.UM.9.1.r1-13700-SMxxx0.QSSI13.0
-Report correct key code of headset buttons
-Bring back Xiaomi doze
-Add support for doze brightness modes
-Add spatial audio support from Cheetah TQ3A.230605.012
-Implement hbm and anti flicker mode
-Dropped Power off Alarm service
-Dropped prebuilt display stack
-SDCardFS Deprecation
-Enabled case folding support on userdata
-Use FUSE passthrough by default
-Imported missing audio and sensor libraries
-Reduce the number of pinned acdb files
-Various other device tree and kernel changes
+August Security Patch
+Pixel Launcher/ASI drain fixes
+Updated kernel to 4.14.323
+Updated miui blobs from 14.0.4.0.TKFMIXM
+Updated miuicamera from 14.0.4.0.TKFMIXM
+Added notch bar killer
+Bump zram to 3GB
+Others under-the-hood fixes
+Updated translations and gapps
