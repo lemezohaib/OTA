@@ -1,14 +1,14 @@
 {
   "response": [
     {
-      "datetime": 1692540194,
-      "size": 2203883072,
-      "filehash": "c100c572882c212d760d967b13f208e6",
-      "filename": "awaken-3.9-triton_void-sweet-unofficial-1541-20230820.zip",
-      "id": "05bea4449b6b897d6a670c5cc0f216d758feb1f41b4a867a84ce269d281bf3a2",
+      "datetime": 1696764589,
+      "size": 2199757130,
+      "filehash": "d17841943b4548f4f17503627d65b565",
+      "filename": "awaken-3.10-triton_void-sweet-unofficial-1213-20231008.zip",
+      "id": "e282bfcdd2ed3e810fe42a9c923fc04888b8f76488c189d1f5e05ab4bdb0ce25",
       "romtype": "unofficial",
-      "version": "3.9",
-      "url": "https://sourceforge.net/projects/aosp-builds/files/awaken-3.9-triton_void-sweet-unofficial-1541-20230820.zip/download"
+      "version": "3.10",
+      "url": "https://sourceforge.net/projects/aosp-builds/files/awaken-3.10-triton_void-sweet-unofficial-1213-20231008.zip/download"
     }
   ]
 }
